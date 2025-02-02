@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "flowbite/plugin";
+@theme {
+  --color-theme-purple: #5f15a1;
+  --color-theme-blue: #0058dd;
+  --font-family-poppins: "Poppins", serif;
+}
